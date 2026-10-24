@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "plugins": {
+    "companion": {
+      "version": "0.2.0-qq.6",
+      "name": "记忆与约定",
+      "file": "companion-0.2.0-qq.6.tar.gz",
+      "size": 58963,
+      "sha256": "c9b1f2790f63c3994fae0aa30e2cb0cd50b045aa1638f270bfd900fd81908eba",
+      "note": "author: Dex"
+    },
+    "napcat-alert": {
+      "version": "1.0.2",
+      "name": "掉线告警",
+      "file": "napcat-alert-1.0.2.tar.gz",
+      "size": 24700,
+      "sha256": "bb32679f0f8d59c2591fda2e85dd37a88503b6af1d83ad1256852868350aca0f",
+      "note": "author: Dex"
+    },
+    "update-agent": {
+      "version": "1.0.11",
+      "name": "自动更新",
+      "file": "update-agent-1.0.11.tar.gz",
+      "size": 18931,
+      "sha256": "3b3bf1eb85277981ee4adde71f9fe9228dde8a99f1a838e2fc924777ff4d1543",
+      "note": "author: Dex"
+    }
+  }
+}
