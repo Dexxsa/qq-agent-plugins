@@ -18,11 +18,11 @@
       "note": "author: Dex"
     },
     "update-agent": {
-      "version": "1.0.12",
+      "version": "1.0.13",
       "name": "自动更新",
-      "file": "update-agent-1.0.12.tar.gz",
+      "file": "update-agent-1.0.13.tar.gz",
       "size": 18931,
-      "sha256": "8cb8d823e778d2a41cddf642dd1be96c5d544120f7475fedfe21d70574cc8f4a",
+      "sha256": "5c0f4a4ea6a0d2423371c60cf8a373d5bc55de3be8f9998ace4016046f0139c7",
       "note": "author: Dex"
     }
   }
