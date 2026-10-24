@@ -18,11 +18,11 @@
       "note": "author: Dex"
     },
     "astrbot-compat": {
-      "version": "2.9.3",
+      "version": "2.9.4",
       "name": "插件市场",
-      "file": "astrbot-compat-2.9.3.tar.gz",
-      "size": 596000,
-      "sha256": "1bb114e452882842d07b2be9aa533ed32c0d306adf74069ee25265d375bb7df4",
+      "file": "astrbot-compat-2.9.4.tar.gz",
+      "size": 611622,
+      "sha256": "90fa9a62c618abcfba3078a71b38c0a7db4b84cf33a3458f31ddea79e7b5d082",
       "note": "author: Dex"
     },
     "daily-news": {
